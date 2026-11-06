@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-import numpy as np
 import matplotlib.patches as patches
 def main():
     fig, ax = plt.subplots(figsize=(8, 8))
